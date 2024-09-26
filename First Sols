@@ -1,0 +1,4 @@
+getgenv().URL_Settings = {
+  ['URL'] = 'Your_url_here_for_webhook'
+}
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Dusty1234567890/SolsRNG/refs/heads/main/First%20Edition')))()
